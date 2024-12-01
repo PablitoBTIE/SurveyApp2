@@ -76,6 +76,6 @@ namespace SurveyCreator
             QuestionText = questionText;
             IsSingleChoice = isSingleChoice;
             Options = options;
-        }
+        } 
     }
 }
